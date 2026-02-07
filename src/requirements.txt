@@ -1,0 +1,8 @@
+pip
+python-dotenv
+ruff
+-e .
+pandas
+matplotlib
+seaborn
+ipykernel
