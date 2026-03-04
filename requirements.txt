@@ -6,3 +6,8 @@ pandas
 matplotlib
 seaborn
 ipykernel
+scikit-learn
+shap
+numpy
+scipy
+joblib
